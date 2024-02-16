@@ -1,2 +1,2 @@
 # mason
-A web platform for board games
+The web platform for building store fronts
